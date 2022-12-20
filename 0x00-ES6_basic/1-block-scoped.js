@@ -3,7 +3,9 @@ export default function taskBlock(trueOrFalse) {
   task2 = true;
 
   if (trueOrFalse) {
+	   // eslint-disable-next-line
     var task;
+	   // eslint-disable-next-line
     var task2;
   }
 
